@@ -5,7 +5,7 @@
 ☐ 'vendor/bin/phpspec run' will run the tests and will ask to make the class for you
 ☐ Now need to type 'composer dumpautoload' in the VSCode terminal to refresh all the files
 ☐ Running the test again should show it all passing
-☐ Create a package.json file at root of working directory
+☐ Create a package.json file at root of working directory and add the {} into the file
 ☐ In VSCode terminal type 'npm install gulp gulp-phpspec gulp-notify gulp-run --save-dev'
 ☐ Create a Gulpfile.js at root of working directory (just copy contents here)
 ☐ type 'gulp' in VSCode terminal to run the 'test' and 'watch' tasks
